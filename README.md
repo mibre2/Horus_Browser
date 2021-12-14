@@ -2,7 +2,7 @@
 
 #### REQUIRED (10pts)
 
-- [x] Develop a private search engine powered by DuckDuckGo.
+- [x] Develop a private search engine powered by [DuckDuckGo](https://duckduckgo.com/).
   - [x] Private search engine should not collect data from user.
 - [x] Search engine should be hosted on a server owned by developer.
   - [x] Hosted by: [DigitalOcean - Cloud computing company](https://www.digitalocean.com/)
