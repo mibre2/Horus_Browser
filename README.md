@@ -14,7 +14,7 @@
 
 ### App Walkthough GIF
 
-- [ ] 
+- [x] https://gyazo.com/3af3e279d5653944242950472824b793
 
 ### Notes
 
@@ -32,4 +32,4 @@ Go to the website [here](https://horus-browser-878fk.ondigitalocean.app/horusbro
 1) Clone the repository using [Git](https://git-scm.com/).
 2) Open the project up in [VSCode](https://code.visualstudio.com/).
 3) Install the [Live Extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension to the editor.
-4) Press the "Go Live" button.
+4) Press the "Go Live" button in the bottom, right-hand corner of your editor.
