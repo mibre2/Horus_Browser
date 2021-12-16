@@ -1,6 +1,6 @@
 # Horus_Browser
 
-#### REQUIRED (10pts)
+#### REQUIRED
 
 - [x] Develop a private search engine powered by [DuckDuckGo](https://duckduckgo.com/).
   - [x] Private search engine should not collect data from user.
